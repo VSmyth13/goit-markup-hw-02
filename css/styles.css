@@ -48,18 +48,32 @@ color:#434455;
 color: #404bbf;
 }
 
-    h1{
+.section{
 
+background-color:#2e2f42;
 }
 
-h2{
-
+.head-first{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
 
-h3{
-
-}
-
-footer{
+.button-first{
     
+}
+    
+    
+    
+    У першій секції знаходиться кнопка якій задані класи, що мають мінімум 3 символи, всі літери латиницею, всі літери маленькі, та можуть містити дефіс чи нижнє підкреслення
+    
+    
+    
+    У кнопки в класі задано стиль background-color: #4D5AE5 для визначення кольору фону
+    
+    
+    
+    У кнопки в класі задано стиль font-family: "Roboto", sans-serif для наслідування сімейства шрифтів від тега body
 }
