@@ -143,6 +143,10 @@ line-height: 1.2
 letter-spacing: 0.02em;
 }
 
+.paragraph-third{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 .paragraph-footer{
     line-height: 1.5;
     color:#F4F4FD;
