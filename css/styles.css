@@ -26,6 +26,6 @@ body{
     color: #2e2f42;
 }
 .listudio:hover,
-.list-first:focus{
+.listudio:focus{
     color:#404bbf;
 }
