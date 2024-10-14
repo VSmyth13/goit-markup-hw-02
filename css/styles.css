@@ -25,6 +25,7 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.listudio:hover{
+.listudio:hover,
+.list-first:focus{
     color:#404bbf;
 }
