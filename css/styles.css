@@ -67,4 +67,5 @@ body{
 .esybbutton:hover,
 .esybbutton:focus{
     background-color: #404BBF;
+    cursor: pointer;
 }
