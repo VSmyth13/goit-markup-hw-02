@@ -147,7 +147,11 @@ body{
 
 .spanfooter{
  color: #f4f4fd;
- line-height: 1.5;
- color:#F4F4FD;
- letter-spacing: 0.02em;
+
+}
+
+.logofooter{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
