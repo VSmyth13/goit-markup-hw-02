@@ -26,3 +26,6 @@ body{
 .listudio:hover{
       color :#404bbf;
 }
+.listudio:focus{
+     color: #404bbf;
+}
