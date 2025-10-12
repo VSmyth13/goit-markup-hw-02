@@ -60,7 +60,7 @@ line-height: 1.07;
  letter-spacing: 0.02em;
  color: #ffffff;
 }
-.buttonOS{
+.buttonos{
      background-color: #4D5AE5;
      font-family: "Roboto", sans-serif;
      font-weight: 500;
@@ -70,9 +70,9 @@ line-height: 1.07;
      color: #ffffff ;
       cursor: pointer ;
 }
-.buttonOS:hover{
+.buttonos:hover{
      background-color: #404BBF;
 }
-.buttonOS:focus{
+.buttonos:focus{
      background-color: #404BBF;
 }
